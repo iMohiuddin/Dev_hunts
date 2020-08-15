@@ -1,0 +1,52 @@
+
+
+
+/* header */
+.header-input{
+    width: 5rem;
+    height: 2rem;
+    font-size: 15px;
+    
+}
+.input-text{
+    margin-top: -4px;
+}
+.slide-img{
+    width: 100%;
+    height: 20rem;
+}
+.input-group{
+    width: 30rem;
+    text-align: center;
+    margin-left: 8rem;
+}
+.img-centertext{
+    margin-top: -15rem;
+    width: 45rem;
+    margin-left: 12rem;
+}
+.gap1{
+    width: 100%;
+    height: 12rem;
+}
+.gap2{
+    width: 100%;
+    height: 5rem;
+}
+.work{
+    width: 150px;
+    height: 150px;
+    margin-left: 3rem;
+}
+.footer-img-centertext{
+    margin-top: -8rem;
+    width: 45rem;
+    margin-left: 12rem;
+}
+.gap3{
+    width: 100%;
+    height: 3rem;
+}
+.left-icon{
+    margin-top: -4rem;
+}
